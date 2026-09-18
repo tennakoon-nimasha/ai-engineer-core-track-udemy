@@ -18,6 +18,7 @@ dependencies = [
     "langchain-chroma>=0.2.6",
     "langchain-community>=0.3.30",
     "langchain-core>=0.3.76",
+    "langchain-google-genai>=2.0.0",
     "langchain-openai>=0.3.33",
     "langchain-text-splitters>=0.3.11",
     "litellm>=1.77.5",
